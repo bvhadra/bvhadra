@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am an experienced Full Stack Developer with prestigious School of Code training. Proficient in coding, UX/UI design, and problem-solving. My passion for problem-solving and effective communication shines through collaborative team projects, where I've honed my skills to be a proficient developer. With a diverse background in IT support, customer service, teaching, and digital marketing, I've cultivated adaptability and transferable expertise, making me an ideal fit for many challenges.  I am committed to excellence in the digital landscape, driving innovative tech solutions.
 
 <!--
 **bvhadra/bvhadra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
