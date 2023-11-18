@@ -1,4 +1,6 @@
-### Hi there, I am an experienced Full Stack Developer with prestigious School of Code training. Proficient in coding, UX/UI design, and problem-solving. My passion for problem-solving and effective communication shines through collaborative team projects, where I've honed my skills to be a proficient developer. With a diverse background in IT support, customer service, teaching, and digital marketing, I've cultivated adaptability and transferable expertise, making me an ideal fit for many challenges.  I am committed to excellence in the digital landscape, driving innovative tech solutions.
+### Hi there, I am an Experienced Full Stack Web Developer trained at the prestigious 'School of Code', known for problem-solving and clear communication. As a skilled full stack and WordPress Developer, I've crafted diverse websites for various clients. My background in IT support, teaching, and digital marketing brings adaptability and versatile skills. 
+
+Dedicated to continuous learning, I pursue self-driven projects in web design, coding, and hold certified expertise in digital marketing. Proficient in coding, UX/UI design, and content creation, I strive to deliver exceptional user experiences. My unique mix of analytical thinking and people skills brings a fresh perspective to development challenges. Thriving in the digital landscape, I focus on hard work, perseverance, and positive outcomes.
 
 <!--
 **bvhadra/bvhadra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
