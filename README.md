@@ -1,6 +1,4 @@
-### <h2>Professional web developer with expertise in HTML, CSS, JavaScript, React, PHP, GitHub, and WordPress development. Completed intensive 16-week bootcamp, delivering successful team projects like 'CarbonZero App' (https://github.com/bvhadra/CarbonZero).
-
-Experienced WordPress developer with a portfolio of professional work. Freelance background, blending technical skills with digital marketing insights for holistic front-end solutions. Passionate about crafting seamless user experiences and staying ahead of industry trends. See my work below and visit my site for more info.</h2>
+### <h2>Professional web developer with expertise in HTML, CSS, JavaScript, React, PHP, GitHub, and WordPress development. Completed intensive 16-week bootcamp, delivering successful team projects like 'CarbonZero App' (https://github.com/bvhadra/CarbonZero).<p>Experienced WordPress developer with a portfolio of professional work. Freelance background, blending technical skills with digital marketing insights for holistic front-end solutions. Passionate about crafting seamless user experiences and staying ahead of industry trends. See my work below and visit my site for more info.</h2>
   
 <!--
 **bvhadra/bvhadra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
