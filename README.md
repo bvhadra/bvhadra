@@ -1,4 +1,4 @@
-### <h2>Accomplished Web Developer and Designer with diverse skills in front-end (HTML, CSS, JavaScript, React) and back-end (Node.js, PHP, WordPress) technologies. Proven expertise in creating compelling web designs, developing functional websites and apps.
+### <h2>Accomplished Web Developer and Designer with diverse skills in front-end (HTML, CSS, JavaScript, React) and back-end (Node.js, C#, PHP, WordPress) technologies. Proven expertise in creating compelling web designs, developing functional websites and apps.
 
 Notable projects include 'CarbonZero App' (React sustainability app), custom WordPress themes, Recipe Search App, Trivia Quiz App, and Task Manager App. Actively engaged in tech events and networking. I can blend technical expertise with business acumen and strong communication skills to provide holistic solutions. 
 
