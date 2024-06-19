@@ -1,9 +1,12 @@
-### <h2>Accomplished Web Developer and Designer with diverse skills in front-end (HTML, CSS, JavaScript, React) and back-end (Node.js, C#, PHP, WordPress) technologies. Proven expertise in creating compelling web designs, developing functional websites and apps.
+<h2>As a versatile Web Developer and Designer, I excel in both front-end (HTML, CSS, JavaScript, React) and back-end technologies (Node.js, C#, PHP, WordPress). My expertise includes creating compelling web designs and developing functional applications. I have developed many professional websites.</h2>
 
-<h3>Notable projects include 'CarbonZero App' (React sustainability app), custom WordPress themes, Recipe Search App, Trivia Quiz App, and Task Manager App. Actively engaged in tech events and networking. I can blend technical expertise with business acumen and strong communication skills to provide holistic solutions.</h3>
+<h3>My GitHub portfolio showcases projects like the 'CarbonZero App' (a React sustainability app), custom WordPress themes, a Recipe Search App, a Trivia Quiz App, and a Task Manager App. I combine technical skills with business insight to deliver effective solutions.
 
-<h3>I am dedicated and driven, with a focus on achieving positive results. Explore GitHub (https://github.com/bvhadra) and website (www.webpulse-marketing.com) for portfolio. Contact for web design and development needs.</h3>
-  
+I am committed to continuous learning and actively participate in tech events and networking groups to stay updated. With experience in collaborative and freelance projects, I thrive in team environments and work independently on complex projects.
+
+I approach every project with passion and perseverance, ensuring clear communication and high-quality results. Please view my projects and portfolio for examples of my skills and professional expertise.</h3>
+
+
 <!--
 **bvhadra/bvhadra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
